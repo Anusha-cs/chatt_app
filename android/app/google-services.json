@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985841130326",
+    "project_id": "chatapp-3d44e",
+    "storage_bucket": "chatapp-3d44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985841130326:android:803bef1ba9ec1f044e94f7",
+        "android_client_info": {
+          "package_name": "com.anusha.chatt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985841130326-fvdlla1katt5jirigju2ojrm3nrm91b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNnUmw_4tjB9zb2j_oPStBtyHnHP7zHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985841130326-fvdlla1katt5jirigju2ojrm3nrm91b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
